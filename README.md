@@ -5,8 +5,12 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/jahzeel-ulises-mendez-diaz-35b882300/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/just_jahzeel/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
@@ -25,7 +29,7 @@
 
 ###
 
-<p align="left">I'm a passionate AI student at <a href=https://www.uaem.mx/>UAEM</a>, also deep interested in Physics.<br><br>- 🔭 I’m studying AI at UAEM.<br>- 📚 I'm currently learning plenty of Physics and NLP.<br>- ⚡ In my free time I use to read.</p>
+<p align="left">I'm a passionate AI student at UAEM, also deep interested in Physics.<br><br>- 🔭 I’m working as ML Junior Developer at PARAUTOS.<br>- 📚 I'm currently learning plenty of Physics and NLP.<br>- ⚡ In my free time I use to read.</p>
 
 ###
 
