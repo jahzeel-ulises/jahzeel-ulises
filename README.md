@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm a passionate AI student at <a href=https://www.uaem.mx/>UAEM</a>, also deep interested in Physics.<br><br>- 🔭 I’m working as ML Junior Developer at PARAUTOS.<br>- 📚 I'm currently learning plenty of Physics and NLP.<br>- ⚡ In my free time I use to read.</p>
+<p align="left">I'm a passionate AI student at <a href=https://www.uaem.mx/>UAEM</a>, also deep interested in Physics.<br><br>- 🔭 I’m studying AI at UAEM.<br>- 📚 I'm currently learning plenty of Physics and NLP.<br>- ⚡ In my free time I use to read.</p>
 
 ###
 
