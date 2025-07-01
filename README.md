@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm a passionate AI student at UAEM, also deep interested in Physics.<br><br>- 🔭 I’m working as ML Junior Developer at PARAUTOS.<br>- 📚 I'm currently learning plenty of Physics and NLP.<br>- ⚡ In my free time I use to read.</p>
+<p align="left">I'm a passionate AI student at <a href=https://www.uaem.mx/>UAEM</a>, also deep interested in Physics.<br><br>- 🔭 I’m working as ML Junior Developer at PARAUTOS.<br>- 📚 I'm currently learning plenty of Physics and NLP.<br>- ⚡ In my free time I use to read.</p>
 
 ###
 
@@ -70,13 +70,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jahzeel-ulises&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jahzeel-ulises/jahzeel-ulises/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jahzeel-ulises/jahzeel-ulises/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jahzeel-ulises/jahzeel-ulises/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
